@@ -1,6 +1,6 @@
 import { motion } from 'motion/react';
 import { Download } from 'lucide-react';
-import hackathonImage from 'figma:asset/377ef22a57b4c85258fca206c797adf757ff0269.png';
+import hackathonImage from '..asset/377ef22a57b4c85258fca206c797adf757ff0269.png';
 
 export function About({ isDark }: { isDark: boolean }) {
   return (
